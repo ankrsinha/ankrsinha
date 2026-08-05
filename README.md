@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ankur  
 
-💼 Software Engineering Intern @ Red Hat  
+💼 Associate Software Engineer @ Red Hat  
 🎓 M.Tech CSE @ IIIT Bangalore  
 
 🚀 Building Kubernetes-native systems & distributed infrastructure  
