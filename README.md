@@ -46,21 +46,11 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankrsinha&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## 🚀 Currently Working On
 
 <p align="center">
 
-OpenShift • Tekton • Kubernetes • Go • Platform Engineering • Distributed Systems
+OpenShift • Tekton • Kubernetes • Go • Distributed Systems • React
 
 </p>
 
